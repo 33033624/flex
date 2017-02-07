@@ -25,7 +25,7 @@ flex-wrap: nowrap;
 </li>
 <li>
 align-items: center;
-<span style='color:lightblue'>/*子元素的在从轴上面的对齐方式*/</span>
+<span style='color:yellow'>/*子元素的在从轴上面的对齐方式*/</span>
 
 </li>
 </ul>
